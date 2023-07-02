@@ -378,6 +378,7 @@ function fbGetBackendName _
 
 end function
 
+'' RDT: 20230702 - Parece ser o ponto de entrada. Vou assumir! 
 sub fbInit _
 	( _
 		byval ismain as integer, _
